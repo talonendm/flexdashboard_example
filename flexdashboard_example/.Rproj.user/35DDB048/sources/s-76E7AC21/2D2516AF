@@ -1,0 +1,25 @@
+{
+    "id": "2D2516AF",
+    "path": "C:/github/flexdashboard_example/install_flexdashboard.R",
+    "project_path": "install_flexdashboard.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1600269804486.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "5,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1600269860,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1600270145381,
+    "read_only": false,
+    "read_only_alternatives": []
+}

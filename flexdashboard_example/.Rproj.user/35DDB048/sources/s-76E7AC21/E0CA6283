@@ -3,21 +3,23 @@
     "path": "C:/github/flexdashboard_example/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "1589396547",
+    "hash": "1079472743",
     "contents": "",
     "dirty": false,
     "created": 1600269871761.0,
     "source_on_save": false,
     "relative_order": 3,
     "properties": {
-        "tempName": "Untitled1"
+        "tempName": "Untitled1",
+        "cursorPosition": "19,40",
+        "scrollLine": "15"
     },
     "folds": "",
-    "lastKnownWriteTime": 1600269909,
+    "lastKnownWriteTime": 1600270756,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1600269909563,
+    "last_content_update": 1600270756573,
     "read_only": false,
     "read_only_alternatives": []
 }
